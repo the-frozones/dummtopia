@@ -39,3 +39,5 @@ on linux and mac:
 same as pc but you download dummtopia.py
 
 on linux you dont need to go to python.org at all, its pre-installed.
+
+# IMPORTANT: ALWAYS DOWNLOAD THIS REPOSITORY AS .ZIP SO YOU ALSO GET THE LOCALIZATIONS!
